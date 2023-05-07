@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>userlog.txt</file>
+        <file>resource/start.png</file>
+        <file>resource/admin.png</file>
+        <file>resource/user.png</file>
+        <file>resource/user2.png</file>
+        <file>resource/money.png</file>
+        <file>resource/setmoney.gif</file>
+        <file>resource/admin2.png</file>
+        <file>resource/additem.png</file>
+        <file>resource/edit.png</file>
+        <file>resource/buy.png</file>
+        <file>resource/buyfinish.gif</file>
+        <file>resource/complete.png</file>
+        <file>resource/false.png</file>
+    </qresource>
+</RCC>

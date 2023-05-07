@@ -1,0 +1,4 @@
+U000,admin,e10adc3949ba59abbe56e057f20f883e,,,500,
+U001,thd,1d8c42b8d043cc6e1ff2273ce54f1c4e,18609824539,shenyang dadong shenyang dadongshenyang ,156466,1
+U002,lrt,e10adc3949ba59abbe56e057f20f883e,1313987623,nanjing xixia,188,1
+U003,crt,e10adc3949ba59abbe56e057f20f883e,1860987623,beijing dadong,506,1
